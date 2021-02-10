@@ -993,7 +993,8 @@ body {
 
 .navigation__icon {
   position: absolute;
-  margin-top: 3.5rem; }
+  margin-top: 3.5rem;
+  margin-left: -1.3rem; }
   .navigation__icon, .navigation__icon::before, .navigation__icon::after {
     width: 3rem;
     height: 2px;
